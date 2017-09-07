@@ -1,0 +1,23 @@
+{
+  "name": "wrap-comment",
+  "version": "0.0.0",
+  "description": "Safely wrap some text in a JavaScript comment, escaping close `*/` sequences.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goto-bus-stop/wrap-comment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/goto-bus-stop/wrap-comment/issues"
+  },
+  "homepage": "https://github.com/goto-bus-stop/wrap-comment#readme",
+  "devDependencies": {
+    "tape": "^4.8.0"
+  }
+}
