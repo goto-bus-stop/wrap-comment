@@ -2,6 +2,8 @@
 
 Safely wrap some text in a JavaScript comment, escaping close `*/` sequences.
 
+Useful if you're commenting text in some source code.
+
 ## Install
 
 ```bash
