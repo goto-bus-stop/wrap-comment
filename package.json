@@ -1,6 +1,6 @@
 {
   "name": "wrap-comment",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Safely wrap some text in a JavaScript comment, escaping close `*/` sequences.",
   "main": "index.js",
   "scripts": {
