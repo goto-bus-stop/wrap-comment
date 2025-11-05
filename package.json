@@ -18,6 +18,8 @@
     "url": "git+https://github.com/goto-bus-stop/wrap-comment.git"
   },
   "scripts": {
-    "test": "tape test.js"
+    "tests-only": "tape test.js",
+    "lint": "true",
+    "test": "npm run tests-only && npm run lint"
   }
 }
