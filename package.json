@@ -7,7 +7,7 @@
     "url": "https://github.com/goto-bus-stop/wrap-comment/issues"
   },
   "devDependencies": {
-    "tape": "^4.8.0"
+    "tape": "^5.9.0"
   },
   "homepage": "https://github.com/goto-bus-stop/wrap-comment#readme",
   "keywords": [],
